@@ -1,1 +1,3 @@
-# SDAGitDemo2
+projekt testowy
+
+## SDAGitDemo2
